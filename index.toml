@@ -150,11 +150,6 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "248d0f3fbee027be6ce7da52defd26b9adfcf55c5a0c25806978a04a20e99408"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
@@ -282,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "7c7aa1558a9822ef239c4c471ecf0fd6e439e2abbe9f7c9aafb6cc65c3aebef6"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "67073e76c80987fe6193fdb50f4db0991467ba3fa265829a132ca878e5261c0a"
 metafile = true
 
 [[files]]
@@ -675,6 +675,11 @@ hash = "9c9c2a9cc191c7cce4bb5143f19a5520253333e13d6c9f6ed873dcf63bc56628"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "6475037d680289b4cf8bca4e375b3ecb9c9d6d90dd785b9bd085a42b9c84b795"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "05e1ff1f1448ca7aa8ebf18d0561a961bbb8e93004942c6b18f0666a2e3b6b11"
 metafile = true
@@ -742,6 +747,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
 metafile = true
 
 [[files]]
