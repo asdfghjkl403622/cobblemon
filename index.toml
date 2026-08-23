@@ -180,6 +180,11 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
+metafile = true
+
+[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "e1977fd5b10505c288fa3ac5b90dacf4089d3cabacfbba503a496719bd466c5c"
 metafile = true
