@@ -1,0 +1,13 @@
+name = "Just Enough Cobblemon"
+filename = "justenoughcobblemon-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8ZP0JLoK/versions/zQywOEBD/justenoughcobblemon-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "082315becf2426ff71e76802f4b49e1e43a37b1349d06d37a9f2f4ec940924efd7921ec8204507eb5a02d60dabb499b506d2a7a86ec491104e409a7f8e85b961"
+
+[update]
+[update.modrinth]
+mod-id = "8ZP0JLoK"
+version = "zQywOEBD"

@@ -1,0 +1,13 @@
+name = "YAML Config"
+filename = "yamlconfig-9.0.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L1FFB418/versions/ZkxIJR6Z/yamlconfig-9.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "34e784d8c2fb32a7346ecc4e0e56d9466ba317eb2720d90c3b7e4eaa6f1a28a3ee3b206360eec33694dfe32906f6a11cc4986bf40e412a8a42cbcf8ded91e7f2"
+
+[update]
+[update.modrinth]
+mod-id = "L1FFB418"
+version = "ZkxIJR6Z"

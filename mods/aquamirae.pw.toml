@@ -1,0 +1,13 @@
+name = "Aquamirae"
+filename = "aquamirae-fabric-1.21.1-7.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/t77SKDqf/aquamirae-fabric-1.21.1-7.2.1.jar"
+hash-format = "sha512"
+hash = "4179855374e814822825f2ed539c86201c5321e8a5459647d6fcd59eaa9a2fd933fc22b8306e005c1de36233de5bfe41f6962cf53053b0d4b9f16cd71775a9bb"
+
+[update]
+[update.modrinth]
+mod-id = "k23mNPhZ"
+version = "t77SKDqf"
