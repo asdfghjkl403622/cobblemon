@@ -335,11 +335,6 @@ hash = "34f033dabd45ddf5eb2e065e2ea1de1dd42f90169323c2becde428261e82ed66"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
-metafile = true
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "2e60b559b948249922cbe8140a081e5fcfa0861803b2020f020da93edda2db9b"
 metafile = true
@@ -697,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "53ff34a5821f588c428221b6e7104d3e4fcf70ab7683c241e4149a4816251fed"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "c7472ae71ab0b72df30939071422b0df04428e1e187a080f1e5f1df0cb1f2465"
 metafile = true
 
 [[files]]
