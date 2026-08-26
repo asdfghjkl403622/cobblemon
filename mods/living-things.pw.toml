@@ -1,0 +1,13 @@
+name = "Living Things"
+filename = "livingthings-fabric-1.21.1-2.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40409b5e6decde2919976c3d238057d3c0e82c8a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8724309
+project-id = 397252

@@ -1,0 +1,13 @@
+name = "Mine Cells - Dead Cells Mod"
+filename = "minecells-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Qdvz1OV/versions/fFPxpM1K/minecells-2.0.3.jar"
+hash-format = "sha512"
+hash = "be5bef5da6d7a22255e76589ea81d307360eac621c67f4070247f0c8e777c0a5c7cd90587cd06ffc83bc721893b6e9110707decf12f16cfb54ba67efa6b35e95"
+
+[update]
+[update.modrinth]
+mod-id = "9Qdvz1OV"
+version = "fFPxpM1K"

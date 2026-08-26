@@ -1,0 +1,13 @@
+name = "Modopedia"
+filename = "modopedia-fabric-1.21.1-1.1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "509d5a4fd32712ab3c0e28e621f41a0f5ab16289"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8043294
+project-id = 1132038

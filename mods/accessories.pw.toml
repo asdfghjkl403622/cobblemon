@@ -3,11 +3,11 @@ filename = "accessories-fabric-1.1.0-beta.53+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "0d8baf9e5c3828edcc22fc6e10774e9d7fb94616dae137be3eeb30bea8292ec0148dd2d41ae7753c82714f1d9f163189d07d0f78321f95943c0c048288130e71"
+hash-format = "sha1"
+hash = "fa0b11de088893bb14aff945d0e8efdee165457b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "jtmvUHXj"
-version = "Xlt4eWBe"
+[update.curseforge]
+file-id = 7583323
+project-id = 938917
