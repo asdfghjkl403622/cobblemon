@@ -215,6 +215,11 @@ hash = "177daaf001a8ed771e725da1a5bde6112c3184971cf38e51a603cdd08f4446ab"
 metafile = true
 
 [[files]]
+file = "mods/cynosure.pw.toml"
+hash = "d03c1d70fb4d9583f1d2c4fefa54eef54c450e88b9ab718532ce3e4061e1cc1d"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
@@ -267,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "8c091c9a660b84f152e47c0d835d8865463ad79636264a68ca6d312399b46538"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "51cdddfa706e188867bc7a7190f9be3d14915c12a91b2c8afe73ac3620bf431f"
 metafile = true
 
 [[files]]
@@ -487,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
 hash = "83b8da70a8c97d7a6f75414cbd4a329029a4c320edda44fe747e895bb4ccd54b"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-wildernature.pw.toml"
-hash = "1c20dce379330ac9910f383578d462dc6adea251eaef9f06dcce10c4e7f1f83b"
 metafile = true
 
 [[files]]
