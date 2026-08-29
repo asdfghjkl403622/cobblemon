@@ -220,6 +220,11 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "578fc88095dde3ea3fe6371c69c4fa789f2b5956229149aab5162463a929cbaa"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
